@@ -1,0 +1,8 @@
+{
+  "catalogVersion": 3,
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-03T13:35:00Z",
+  "catalogUrl": "versions/catalog-v3.json",
+  "sha256": "24a3867e4b5d1ed9a4332d877f30002060a93af74e698256c0de1dbd9d23bdab",
+  "minAppVersionCode": 3
+}
