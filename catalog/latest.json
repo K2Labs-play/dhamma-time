@@ -1,8 +1,8 @@
 {
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T15:00:00Z",
-  "catalogUrl": "versions/catalog-v5.json",
-  "sha256": "50dd71555701f35124794e5e6c4713885978ed45a06fa381ff093b98623c149d",
+  "updatedAt": "2026-10-05T16:30:57.527Z",
+  "catalogUrl": "versions/catalog-v6.json",
+  "sha256": "ffbf0cdbece69ad36097d8d2919335ce4a56501a780fbc0218785e20efd94b8e",
   "minAppVersionCode": 3
 }
